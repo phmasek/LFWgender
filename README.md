@@ -14,3 +14,6 @@ Usage
     Faces in the Wild** dataset.
  2. Change the `maleFolder` and `femaleFolder` variables to the directory where the images should be copied based on their gender
 
+
+
+This script was developed and used together with Labeled Faces in the Wild for the research paper found [here](http://www.pipiaco.com/media/docs/Bsc-Thesis-Software-Quality-Evaluation-of-Face-Recognition-Libraries-APIs.pdf).
