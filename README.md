@@ -16,4 +16,4 @@ Usage
 
 
 
-This script was developed and used together with Labeled Faces in the Wild for the research paper found [here](http://www.pipiaco.com/media/docs/Bsc-Thesis-Software-Quality-Evaluation-of-Face-Recognition-Libraries-APIs.pdf).
+This script was developed and used together with Labeled Faces in the Wild for the research paper found [here](https://gupea.ub.gu.se/handle/2077/38856).
