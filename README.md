@@ -16,4 +16,4 @@ Usage
 
 
 
-This script was developed and used together with Labeled Faces in the Wild for the research paper found [here](https://gupea.ub.gu.se/handle/2077/38856).
+This script was developed and used together with Labeled Faces in the Wild for the research paper found [here](http://hdl.handle.net/2077/38856).
